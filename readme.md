@@ -26,4 +26,90 @@
 
 
 
-学习进度汇报(2020/6/2)
+学习进度汇报(2020/6/30)
+
+a//b remove fractional parts
+
+a** b exponentiation
+
+if you want to get some help about a function which you forget, select the function and press **ctrl + Q**
+
+for example, if you select function print, it will displace **print(value, ..., sep=' ', end=' ', file=sys.stdout, flush=False)** on the screen
+
+file parameter can allow you to print things into a file
+
+if you want to find which function you can use in a class, select the class and press **shift + ctrl + I**
+
+```python
+def mult_by_five(x):
+    return 5 * x
+
+def call(fn, arg):
+    """Call fn on arg"""
+    return fn(arg)
+
+def squared_call(fn, arg):
+    """Call fn on the result of calling fn on arg"""
+    return fn(fn(arg))
+
+print(
+    call(mult_by_five, 1),
+    squared_call(mult_by_five, 1), 
+    sep='\n', # '\n' is the newline character - it starts a new line
+)
+# result 
+# 5 
+# 25
+```
+
+```python
+def mod_5(x):
+    """Return the remainder of x after dividing by 5"""
+    return x % 5
+
+print(
+    'Which number is biggest?',
+    max(100, 51, 14),
+    'Which number is the biggest modulo 5?',
+    max(100, 51, 14, key=mod_5),
+    sep='\n',
+)
+# result:
+# Which number is biggest?
+# 100
+# Which number is the biggest modulo 5?
+# 14
+```
+
+Elements at the end of the list can be accessed with negative numbers, starting from -1
+
+```python
+# All the planets except the first and last
+planets[1:-1]
+```
+
+tuples are almost exactly the same as lists. They differ in just two ways.
+
+1. the syntax for creating them uses parentheses rather than square brackets
+2. they can not be modified once they are defined
+
+**List comprehensions** are a very unique features
+
+```python
+squares = [n**2 for n in range(10)]
+# [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+
+short_planets = [planet for planet in planets if len(planet) < 6]
+# ['Venus', 'Earth', 'Mars']
+
+loud_short_planets = [
+    planet.upper() + '!' 
+    for planet in planets 
+    if len(planet) < 6
+]
+# ['VENUS!', 'EARTH!', 'MARS!']
+
+# count for negative number
+len([num for num in nums if num < 0])
+sum([num < 0 for num in nums])
+```

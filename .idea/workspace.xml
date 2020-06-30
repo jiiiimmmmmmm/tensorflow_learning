@@ -34,7 +34,7 @@
       <recent name="C:\Users\13065\Desktop\tensorflow_learning\MNIST_data" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.python learning">
     <configuration name="mnist_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,8 +56,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="python learning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tensorflow_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python learning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.python learning" />
         <item itemvalue="Python.mnist_test" />
       </list>
     </recent_temporary>
@@ -96,25 +118,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1127" y="296" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593447208948" />
-    <state width="936" height="259" key="GridCell.Tab.0.bottom" timestamp="1593479291552">
+    <state width="1124" height="347" key="GridCell.Tab.0.bottom" timestamp="1593504282057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593479291552" />
-    <state width="936" height="259" key="GridCell.Tab.0.center" timestamp="1593479291552">
+    <state width="1124" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593504282057" />
+    <state width="1124" height="347" key="GridCell.Tab.0.center" timestamp="1593504282057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593479291552" />
-    <state width="936" height="259" key="GridCell.Tab.0.left" timestamp="1593479291552">
+    <state width="1124" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593504282057" />
+    <state width="1124" height="347" key="GridCell.Tab.0.left" timestamp="1593504282057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593479291552" />
-    <state width="936" height="259" key="GridCell.Tab.0.right" timestamp="1593479291552">
+    <state width="1124" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593504282057" />
+    <state width="1124" height="347" key="GridCell.Tab.0.right" timestamp="1593504282057">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593479291552" />
+    <state width="1124" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593504282057" />
     <state x="218" y="200" key="SettingsEditor" timestamp="1593447521109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="218" y="200" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593447521109" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1593504117135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="377" height="270" key="javadoc.popup.new" timestamp="1593504373838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="377" height="270" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1593504373838" />
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593504117135" />
   </component>
 </project>
