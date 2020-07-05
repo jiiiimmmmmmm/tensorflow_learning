@@ -26,7 +26,7 @@
 
 
 
-学习进度汇报(2020/6/30)
+
 
 a//b remove fractional parts
 
@@ -113,3 +113,32 @@ loud_short_planets = [
 len([num for num in nums if num < 0])
 sum([num < 0 for num in nums])
 ```
+
+```python
+'/'.join([month, day, year])
+# '01/31/1956'
+
+"{}, you'll always be the {}th planet to me.".format(planet, position)
+# "Pluto, you'll always be the 9th planet to me."
+
+pluto_mass = 1.303 * 10**22
+earth_mass = 5.9722 * 10**24
+population = 52910390
+"{} weighs about {:.2} kilograms ({:.3%} of Earth's mass). It is home to {:,} Plutonians.".format(
+    planet, pluto_mass, pluto_mass / earth_mass, population,
+)
+# "Pluto weighs about 1.3e+22 kilograms (0.218% of Earth's mass). It is home to 52,910,390 Plutonians."
+
+# Referring to format() arguments by index, starting from 0
+s = """Pluto's a {0}.
+No, it's a {1}.
+{0}!
+{1}!""".format('planet', 'dwarf planet')
+print(s)
+```
+
+```
+# Get the rows with population over 1m in South America
+df[(df['population'] > 10**6) & (df['continent'] == 'South America')]
+```
+

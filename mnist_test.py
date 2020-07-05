@@ -13,3 +13,4 @@ w = tf.Variable(tf.zeros([784,10]))
 b = tf.Variable(tf.zeros([10]))
 
 y = tf.nn.softmax(tf.matmul(x,w)+b)
+print(2//3)

@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\13065\Desktop\tensorflow_learning\venv"
+VIRTUAL_ENV="C:\Users\吴梓祺\Desktop\tensorflow_learning\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

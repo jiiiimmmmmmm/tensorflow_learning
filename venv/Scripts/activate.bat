@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set "VIRTUAL_ENV=C:\Users\13065\Desktop\tensorflow_learning\venv"
+set "VIRTUAL_ENV=C:\Users\吴梓祺\Desktop\tensorflow_learning\venv"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
