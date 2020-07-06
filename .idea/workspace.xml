@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/home_data" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -42,8 +42,8 @@
       <recent name="C:\Users\13065\Desktop\tensorflow_learning\MNIST_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.XGBoost">
-    <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.external libraries">
+    <configuration name="external libraries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +51,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 1 python basis learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 3/123.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1 python basis learning/external libraries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Categorical Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 1 python basis learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 3/Categorical Variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1 python basis learning/function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Cross-Validation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 1 python basis learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 3/Cross-Validation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1 python basis learning/list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pipelines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 1 python basis learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 3/Pipelines.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1 python basis learning/loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="XGBoost" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 1 python basis learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 3/XGBoost.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1 python basis learning/strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.XGBoost" />
-        <item itemvalue="Python.Cross-Validation" />
-        <item itemvalue="Python.Pipelines" />
-        <item itemvalue="Python.Categorical Variables" />
-        <item itemvalue="Python.123" />
+        <item itemvalue="Python.external libraries" />
+        <item itemvalue="Python.strings" />
+        <item itemvalue="Python.loop" />
+        <item itemvalue="Python.list" />
+        <item itemvalue="Python.function" />
       </list>
     </recent_temporary>
   </component>
@@ -188,30 +188,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="775" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593762645286" />
+    <state x="1170" y="332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593968940410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593968940410" />
     <state x="744" y="330" key="FileChooserDialogImpl" timestamp="1593762866436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="744" y="330" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593762866436" />
-    <state width="936" height="219" key="GridCell.Tab.0.bottom" timestamp="1593766836859">
+    <state width="936" height="453" key="GridCell.Tab.0.bottom" timestamp="1594002624002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="219" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593766836859" />
-    <state width="936" height="219" key="GridCell.Tab.0.center" timestamp="1593766836859">
+    <state width="936" height="453" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594002624002" />
+    <state width="936" height="453" key="GridCell.Tab.0.center" timestamp="1594002624002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="219" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593766836859" />
-    <state width="936" height="219" key="GridCell.Tab.0.left" timestamp="1593766836859">
+    <state width="936" height="453" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594002624002" />
+    <state width="936" height="453" key="GridCell.Tab.0.left" timestamp="1594002624002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="219" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593766836859" />
-    <state width="936" height="219" key="GridCell.Tab.0.right" timestamp="1593766836859">
+    <state width="936" height="453" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594002624002" />
+    <state width="936" height="453" key="GridCell.Tab.0.right" timestamp="1594002624002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="219" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593766836859" />
-    <state x="472" y="208" key="SettingsEditor" timestamp="1593958822366">
+    <state width="936" height="453" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594002624002" />
+    <state x="926" y="172" key="SettingsEditor" timestamp="1594002517900">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="472" y="208" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593958822366" />
+    <state x="926" y="172" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594002517900" />
     <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1593958648468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
