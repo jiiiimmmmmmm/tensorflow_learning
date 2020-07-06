@@ -2,8 +2,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 # Read the data
-X_full = pd.read_csv('../home_data/train.csv', index_col='Id')
-X_test_full = pd.read_csv('../home_data/test.csv', index_col='Id')
+X_full = pd.read_csv('home_data/train.csv', index_col='Id')
+X_test_full = pd.read_csv('home_data/test.csv', index_col='Id')
 
 # Remove rows with missing target, separate target from predictors
 X_full.dropna(axis=0, subset=['SalePrice'], inplace=True)

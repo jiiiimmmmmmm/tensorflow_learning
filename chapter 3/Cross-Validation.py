@@ -1,9 +1,10 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
+
 # Read the data
-train_data = pd.read_csv('../home_data/train.csv', index_col='Id')
-test_data = pd.read_csv('../home_data/test.csv', index_col='Id')
+train_data = pd.read_csv('home_data/train.csv', index_col='Id')
+test_data = pd.read_csv('home_data/test.csv', index_col='Id')
 
 # Remove rows with missing target, separate target from predictors
 train_data.dropna(axis=0, subset=['SalePrice'], inplace=True)
@@ -44,6 +45,7 @@ def get_score(n_estimators):
         ('preprocessor', SimpleImputer()),
         ('model', RandomForestRegressor(n_estimators=n_estimators, random_state=0))
     ])
+
     # Multiply by -1 since sklearn calculates *negative* MAE
     scores = -1 * cross_val_score(my_pipeline, X, y,
                                   cv=3,
@@ -52,7 +54,7 @@ def get_score(n_estimators):
 
 
 results = {}
-for i in range(1,9):
+for i in range(1,2):
     results[50*i] = get_score(50*i)
 print(results)
 

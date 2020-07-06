@@ -2,8 +2,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 
-X_full = pd.read_csv('../home_data/train.csv', index_col='Id')
-X_test_full = pd.read_csv('../home_data/test.csv', index_col='Id')
+X_full = pd.read_csv('home_data/train.csv', index_col='Id')
+X_test_full = pd.read_csv('home_data/test.csv', index_col='Id')
 y = X_full['SalePrice']
 features = ['LotArea', 'YearBuilt', '1stFlrSF', '2ndFlrSF', 'FullBath', 'BedroomAbvGr', 'TotRmsAbvGrd']
 X = X_full[features].copy()
@@ -39,6 +39,3 @@ print('So, I choose the model 3')
 my_model = models[2]
 my_model.fit(X,y)
 preds_test = my_model.predict(X_test)
-output = pd.DataFrame({'id':X_test.index,
-                       'Saleprice': preds_test})
-output.to_csv('../home_data/intro.csv', index=False)
