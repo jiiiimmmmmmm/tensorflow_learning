@@ -32,7 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/home_data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter 3" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -42,11 +42,12 @@
       <recent name="C:\Users\吴梓祺\Desktop\tensorflow_learning\chapter 2 intro to machine learning" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\吴梓祺\Desktop\tensorflow_learning\chapter 3" />
       <recent name="C:\Users\13065\Desktop\tensorflow_learning\home_data" />
       <recent name="C:\Users\13065\Desktop\tensorflow_learning\MNIST_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Categorical Variables">
+  <component name="RunManager" selected="Python.Pipelines">
     <configuration name="Categorical Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,6 +111,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Pipelines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tensorflow_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 3/Pipelines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="intro" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,34 +153,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="random forest model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tensorflow_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 2 intro to machine learning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 2 intro to machine learning/random forest model.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Pipelines" />
         <item itemvalue="Python.Categorical Variables" />
         <item itemvalue="Python.Missing Values" />
         <item itemvalue="Python.intro" />
         <item itemvalue="Python.Cross-Validation" />
-        <item itemvalue="Python.random forest model" />
       </list>
     </recent_temporary>
   </component>
@@ -200,22 +201,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="744" y="330" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594008050610" />
-    <state width="935" height="393" key="GridCell.Tab.0.bottom" timestamp="1594035139833">
+    <state width="935" height="393" key="GridCell.Tab.0.bottom" timestamp="1594041632134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="393" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594035139833" />
-    <state width="935" height="393" key="GridCell.Tab.0.center" timestamp="1594035139833">
+    <state width="935" height="393" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594041632134" />
+    <state width="935" height="393" key="GridCell.Tab.0.center" timestamp="1594041632134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="393" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594035139833" />
-    <state width="935" height="393" key="GridCell.Tab.0.left" timestamp="1594035139833">
+    <state width="935" height="393" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594041632134" />
+    <state width="935" height="393" key="GridCell.Tab.0.left" timestamp="1594041632134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="393" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594035139833" />
-    <state width="935" height="393" key="GridCell.Tab.0.right" timestamp="1594035139833">
+    <state width="935" height="393" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594041632134" />
+    <state width="935" height="393" key="GridCell.Tab.0.right" timestamp="1594041632134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="393" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594035139833" />
+    <state width="935" height="393" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594041632134" />
     <state x="33" y="242" key="SettingsEditor" timestamp="1594024025586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
