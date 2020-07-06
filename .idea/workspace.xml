@@ -34,16 +34,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/home_data" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="Console" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\吴梓祺\Desktop\tensorflow_learning\chapter 2 intro to machine learning" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\13065\Desktop\tensorflow_learning\home_data" />
       <recent name="C:\Users\13065\Desktop\tensorflow_learning\MNIST_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.external libraries">
-    <configuration name="external libraries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.random forest model">
+    <configuration name="basic data exploration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 1 python basis learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 2 intro to machine learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1 python basis learning/external libraries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 2 intro to machine learning/basic data exploration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="modle validation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 1 python basis learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 2 intro to machine learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1 python basis learning/function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 2 intro to machine learning/modle validation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="my first machine learning model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 1 python basis learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 2 intro to machine learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1 python basis learning/list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 2 intro to machine learning/my first machine learning model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="random forest model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 1 python basis learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 2 intro to machine learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1 python basis learning/loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 2 intro to machine learning/random forest model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="underfitting and overfitting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 1 python basis learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 2 intro to machine learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 1 python basis learning/strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 2 intro to machine learning/underfitting and overfitting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.external libraries" />
-        <item itemvalue="Python.strings" />
-        <item itemvalue="Python.loop" />
-        <item itemvalue="Python.list" />
-        <item itemvalue="Python.function" />
+        <item itemvalue="Python.random forest model" />
+        <item itemvalue="Python.underfitting and overfitting" />
+        <item itemvalue="Python.modle validation" />
+        <item itemvalue="Python.my first machine learning model" />
+        <item itemvalue="Python.basic data exploration" />
       </list>
     </recent_temporary>
   </component>
@@ -184,49 +187,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="775" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593762645286">
+    <state x="775" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594018608230">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="775" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593762645286" />
+    <state x="775" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594018608230" />
     <state x="1170" y="332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593968940410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1170" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593968940410" />
-    <state x="744" y="330" key="FileChooserDialogImpl" timestamp="1593762866436">
+    <state x="744" y="330" key="FileChooserDialogImpl" timestamp="1594008050610">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="744" y="330" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593762866436" />
-    <state width="936" height="453" key="GridCell.Tab.0.bottom" timestamp="1594002624002">
+    <state x="744" y="330" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594008050610" />
+    <state width="935" height="393" key="GridCell.Tab.0.bottom" timestamp="1594022996379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="453" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594002624002" />
-    <state width="936" height="453" key="GridCell.Tab.0.center" timestamp="1594002624002">
+    <state width="935" height="393" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594022996379" />
+    <state width="935" height="393" key="GridCell.Tab.0.center" timestamp="1594022996379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="453" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594002624002" />
-    <state width="936" height="453" key="GridCell.Tab.0.left" timestamp="1594002624002">
+    <state width="935" height="393" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594022996379" />
+    <state width="935" height="393" key="GridCell.Tab.0.left" timestamp="1594022996379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="453" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594002624002" />
-    <state width="936" height="453" key="GridCell.Tab.0.right" timestamp="1594002624002">
+    <state width="935" height="393" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594022996379" />
+    <state width="935" height="393" key="GridCell.Tab.0.right" timestamp="1594022996379">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="453" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594002624002" />
-    <state x="926" y="172" key="SettingsEditor" timestamp="1594002517900">
+    <state width="935" height="393" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594022996379" />
+    <state x="539" y="195" key="SettingsEditor" timestamp="1594021299826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="926" y="172" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594002517900" />
+    <state x="539" y="195" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594021299826" />
     <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1593958648468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593958648468" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1593701348692">
+    <state width="600" height="424" key="javadoc.popup" timestamp="1594020474523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="647" height="391" key="javadoc.popup.new" timestamp="1593737818812">
+    <state width="647" height="391" key="javadoc.popup.new" timestamp="1594020599522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="647" height="391" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1593737818812" />
-    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593701348692" />
+    <state width="647" height="391" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1594020599522" />
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594020474523" />
   </component>
 </project>
