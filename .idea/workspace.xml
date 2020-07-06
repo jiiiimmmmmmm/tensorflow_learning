@@ -46,7 +46,7 @@
       <recent name="C:\Users\13065\Desktop\tensorflow_learning\MNIST_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Missing Values">
+  <component name="RunManager" selected="Python.Categorical Variables">
     <configuration name="Categorical Variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,10 +154,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Categorical Variables" />
         <item itemvalue="Python.Missing Values" />
         <item itemvalue="Python.intro" />
         <item itemvalue="Python.Cross-Validation" />
-        <item itemvalue="Python.Categorical Variables" />
         <item itemvalue="Python.random forest model" />
       </list>
     </recent_temporary>
@@ -200,22 +200,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="744" y="330" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594008050610" />
-    <state width="935" height="393" key="GridCell.Tab.0.bottom" timestamp="1594025866914">
+    <state width="935" height="393" key="GridCell.Tab.0.bottom" timestamp="1594035139833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="393" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594025866914" />
-    <state width="935" height="393" key="GridCell.Tab.0.center" timestamp="1594025866914">
+    <state width="935" height="393" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594035139833" />
+    <state width="935" height="393" key="GridCell.Tab.0.center" timestamp="1594035139833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="393" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594025866914" />
-    <state width="935" height="393" key="GridCell.Tab.0.left" timestamp="1594025866914">
+    <state width="935" height="393" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594035139833" />
+    <state width="935" height="393" key="GridCell.Tab.0.left" timestamp="1594035139833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="393" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594025866914" />
-    <state width="935" height="393" key="GridCell.Tab.0.right" timestamp="1594025866914">
+    <state width="935" height="393" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594035139833" />
+    <state width="935" height="393" key="GridCell.Tab.0.right" timestamp="1594035139833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="935" height="393" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594025866914" />
+    <state width="935" height="393" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594035139833" />
     <state x="33" y="242" key="SettingsEditor" timestamp="1594024025586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -224,13 +224,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593958648468" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1594024115705">
+    <state width="600" height="424" key="javadoc.popup" timestamp="1594033467052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="647" height="391" key="javadoc.popup.new" timestamp="1594024134275">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="647" height="391" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1594024134275" />
-    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594024115705" />
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594033467052" />
   </component>
 </project>
