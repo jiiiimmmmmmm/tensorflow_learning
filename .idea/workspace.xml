@@ -34,7 +34,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter 3" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="RainbowCSV.Settings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2791411" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -49,7 +50,7 @@
       <recent name="C:\Users\13065\Desktop\tensorflow_learning\MNIST_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.creating, reading and writing">
+  <component name="RunManager" selected="Python.baseline_model">
     <configuration name="bar charts and heatmaps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,6 +64,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 4 data visualization/bar charts and heatmaps.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baseline_model" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="tensorflow_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 6 feature engineering" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\吴梓祺\Desktop\tensorflow_learning\chapter 6 feature engineering\baseline_model.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,27 +135,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="line charts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tensorflow_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter 4 data visualization" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter 4 data visualization/line charts.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="scatter plots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,7 +162,6 @@
         <item itemvalue="Python.scatter plots" />
         <item itemvalue="Python.bar charts and heatmaps" />
         <item itemvalue="Python.distributions" />
-        <item itemvalue="Python.line charts" />
       </list>
     </recent_temporary>
   </component>
@@ -195,38 +195,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="182" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1594084004451" />
-    <state x="775" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594018608230">
+    <state x="775" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594100823009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="775" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594018608230" />
+    <state x="775" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594100823009" />
     <state x="1170" y="332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593968940410">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1170" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593968940410" />
-    <state x="744" y="330" key="FileChooserDialogImpl" timestamp="1594008050610">
+    <state x="1148" y="297" key="FileChooserDialogImpl" timestamp="1594100581214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="744" y="330" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594008050610" />
-    <state width="936" height="393" key="GridCell.Tab.0.bottom" timestamp="1594089234728">
+    <state x="1148" y="297" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594100581214" />
+    <state width="936" height="393" key="GridCell.Tab.0.bottom" timestamp="1594106993951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="393" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594089234728" />
-    <state width="936" height="393" key="GridCell.Tab.0.center" timestamp="1594089234728">
+    <state width="936" height="393" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594106993951" />
+    <state width="936" height="393" key="GridCell.Tab.0.center" timestamp="1594106993951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="393" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594089234728" />
-    <state width="936" height="393" key="GridCell.Tab.0.left" timestamp="1594089234728">
+    <state width="936" height="393" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594106993951" />
+    <state width="936" height="393" key="GridCell.Tab.0.left" timestamp="1594106993951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="393" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594089234728" />
-    <state width="936" height="393" key="GridCell.Tab.0.right" timestamp="1594089234728">
+    <state width="936" height="393" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594106993951" />
+    <state width="936" height="393" key="GridCell.Tab.0.right" timestamp="1594106993951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="393" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594089234728" />
-    <state x="33" y="242" key="SettingsEditor" timestamp="1594087351713">
+    <state width="936" height="393" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594106993951" />
+    <state x="657" y="222" key="SettingsEditor" timestamp="1594100794394">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="33" y="242" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594087351713" />
+    <state x="657" y="222" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594100794394" />
     <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1593958648468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -234,10 +234,10 @@
     <state width="600" height="424" key="javadoc.popup" timestamp="1594033467052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="647" height="391" key="javadoc.popup.new" timestamp="1594024134275">
+    <state width="647" height="391" key="javadoc.popup.new" timestamp="1594099570684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="647" height="391" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1594024134275" />
+    <state width="647" height="391" key="javadoc.popup.new/0.0.1920.1040@0.0.1920.1040" timestamp="1594099570684" />
     <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594033467052" />
   </component>
 </project>
