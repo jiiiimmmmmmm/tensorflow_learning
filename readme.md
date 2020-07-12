@@ -30,14 +30,15 @@
 
 I think this assignment is not as simple as I thought. Here are several difficulties.
 
-1. I have to find the data by myself. Though I find pictures of cats and dogs from the [kaggle website](https://www.kaggle.com/c/dogs-vs-cats) easily, I cannot download it since the speed of download is limited. In order to address this tricky problem, I tried several way and finally found a comparetively good measure: use kaggle api. Here is the [detail](https://www.jianshu.com/p/7da54c564c55) of this measure. In this way, I can at least download the complete data, even though it takes me a lot of time.
-2. I just a beginner of tensorflow and deep learning to some extent, which means I do not know any model used frequently in deep learning and be familiar with programing this kind of things. Also I realized that the images of dogs and cats have color, which means I need to transform these colorful images to grey-scale images.
+1. I have to find the data by myself. Though I found pictures of cats and dogs from the [kaggle website](https://www.kaggle.com/c/dogs-vs-cats) easily, I cannot download it since the speed of download was limited. In order to address this tricky problem, I tried several ways and finally found a comparetively good measure: using kaggle api. Here is the [detail](https://www.jianshu.com/p/7da54c564c55) of this measure. In this way, I can at least download the complete data, even though it takes me a lot of time.
+2. I am just a beginner of tensorflow and deep learning , which means I do not know any model used frequently in deep learning and be familiar with programing this kind of things. Therefore, I need some simple and well-quality tutorials. 
+3. I realized that the images of dogs and cats have color, which means I need to transform these colorful images to grey-scale images.
 
 Based on the statements mentioned above, I think this assignment is too difficult to me.
 
-Then, what's next? Should I stand still? Of course not! Here is the assignment I give to myself: learning tensorflow from the official tensorflow tutorials website.
+Then, what's next? Should I stand still? Of course not! Here is the assignment I give to myself: learning tensorflow from [the official tensorflow tutorials website](https://tensorflow.google.cn/tutorials/quickstart/beginner).
 
-[here is the official tensorflow tutorials website](https://tensorflow.google.cn/tutorials/quickstart/beginner). By learning tensorflow in this website, I found one very useful tool which helped me get some insight on tensorflow: google colab. First of all, I don't need to annoy installing all the environement such as installing editor, installing tensorflow extension, downloading the relative data. Therefore, this tool give me a huge convenience.
+By learning tensorflow in this website, I found a very useful tool which helped me get some insights on tensorflow: **google colab**. I don't need to annoy installing all the environement such as installing editor, installing tensorflow extension, downloading the relative data. Therefore, this tool give me a huge convenience.
 
 
 
