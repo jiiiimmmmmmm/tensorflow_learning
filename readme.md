@@ -26,119 +26,18 @@
 
 
 
+## 小任务: 猫狗识别
+
+I think this assignment is not as simple as I thought. Here are several difficulties.
+
+1. I have to find the data by myself. Though I find pictures of cats and dogs from the [kaggle website](https://www.kaggle.com/c/dogs-vs-cats) easily, I cannot download it since the speed of download is limited. In order to address this tricky problem, I tried several way and finally found a comparetively good measure: use kaggle api. Here is the [detail](https://www.jianshu.com/p/7da54c564c55) of this measure. In this way, I can at least download the complete data, even though it takes me a lot of time.
+2. I just a beginner of tensorflow and deep learning to some extent, which means I do not know any model used frequently in deep learning and be familiar with programing this kind of things. Also I realized that the images of dogs and cats have color, which means I need to transform these colorful images to grey-scale images.
+
+Based on the statements mentioned above, I think this assignment is too difficult to me.
+
+Then, what's next? Should I stand still? Of course not! Here is the assignment I give to myself: learning tensorflow from the official tensorflow tutorials website.
+
+[here is the official tensorflow tutorials website](https://tensorflow.google.cn/tutorials/quickstart/beginner). By learning tensorflow in this website, I found one very useful tool which helped me get some insight on tensorflow: google colab. First of all, I don't need to annoy installing all the environement such as installing editor, installing tensorflow extension, downloading the relative data. Therefore, this tool give me a huge convenience.
 
 
-a//b remove fractional parts
-
-a** b exponentiation
-
-if you want to get some help about a function which you forget, select the function and press **ctrl + Q**
-
-for example, if you select function print, it will displace **print(value, ..., sep=' ', end=' ', file=sys.stdout, flush=False)** on the screen
-
-file parameter can allow you to print things into a file
-
-if you want to find which function you can use in a class, select the class and press **shift + ctrl + I**
-
-```python
-def mult_by_five(x):
-    return 5 * x
-
-def call(fn, arg):
-    """Call fn on arg"""
-    return fn(arg)
-
-def squared_call(fn, arg):
-    """Call fn on the result of calling fn on arg"""
-    return fn(fn(arg))
-
-print(
-    call(mult_by_five, 1),
-    squared_call(mult_by_five, 1), 
-    sep='\n', # '\n' is the newline character - it starts a new line
-)
-# result 
-# 5 
-# 25
-```
-
-```python
-def mod_5(x):
-    """Return the remainder of x after dividing by 5"""
-    return x % 5
-
-print(
-    'Which number is biggest?',
-    max(100, 51, 14),
-    'Which number is the biggest modulo 5?',
-    max(100, 51, 14, key=mod_5),
-    sep='\n',
-)
-# result:
-# Which number is biggest?
-# 100
-# Which number is the biggest modulo 5?
-# 14
-```
-
-Elements at the end of the list can be accessed with negative numbers, starting from -1
-
-```python
-# All the planets except the first and last
-planets[1:-1]
-```
-
-tuples are almost exactly the same as lists. They differ in just two ways.
-
-1. the syntax for creating them uses parentheses rather than square brackets
-2. they can not be modified once they are defined
-
-**List comprehensions** are a very unique features
-
-```python
-squares = [n**2 for n in range(10)]
-# [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
-
-short_planets = [planet for planet in planets if len(planet) < 6]
-# ['Venus', 'Earth', 'Mars']
-
-loud_short_planets = [
-    planet.upper() + '!' 
-    for planet in planets 
-    if len(planet) < 6
-]
-# ['VENUS!', 'EARTH!', 'MARS!']
-
-# count for negative number
-len([num for num in nums if num < 0])
-sum([num < 0 for num in nums])
-```
-
-```python
-'/'.join([month, day, year])
-# '01/31/1956'
-
-"{}, you'll always be the {}th planet to me.".format(planet, position)
-# "Pluto, you'll always be the 9th planet to me."
-
-pluto_mass = 1.303 * 10**22
-earth_mass = 5.9722 * 10**24
-population = 52910390
-"{} weighs about {:.2} kilograms ({:.3%} of Earth's mass). It is home to {:,} Plutonians.".format(
-    planet, pluto_mass, pluto_mass / earth_mass, population,
-)
-# "Pluto weighs about 1.3e+22 kilograms (0.218% of Earth's mass). It is home to 52,910,390 Plutonians."
-
-# Referring to format() arguments by index, starting from 0
-s = """Pluto's a {0}.
-No, it's a {1}.
-{0}!
-{1}!""".format('planet', 'dwarf planet')
-print(s)
-```
-
-```
-# Get the rows with population over 1m in South America
-df[(df['population'] > 10**6) & (df['continent'] == 'South America')]
-```
 
