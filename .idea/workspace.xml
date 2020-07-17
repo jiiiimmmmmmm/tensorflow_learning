@@ -32,25 +32,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter 3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/basic classification" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2791411" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\吴梓祺\Desktop\tensorflow_learning\basic classification" />
       <recent name="C:\Users\吴梓祺\Desktop\tensorflow_learning\chapter 3" />
       <recent name="C:\Users\13065\Desktop\tensorflow_learning\home_data" />
       <recent name="C:\Users\13065\Desktop\tensorflow_learning\MNIST_data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\吴梓祺\Desktop\tensorflow_learning" />
       <recent name="C:\Users\吴梓祺\Desktop\tensorflow_learning\chapter 4 data visualization\dataset" />
       <recent name="C:\Users\吴梓祺\Desktop\tensorflow_learning\chapter 4 data visualization" />
       <recent name="C:\Users\吴梓祺\Desktop\tensorflow_learning\chapter 3" />
       <recent name="C:\Users\吴梓祺\Desktop\tensorflow_learning\chapter 2 intro to machine learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.text classification">
+  <component name="RunManager" selected="Python.demo_learning">
     <configuration name="baseline_model" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="tensorflow_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,6 +66,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\吴梓祺\Desktop\tensorflow_learning\chapter 6 feature engineering\baseline_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classify flower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tensorflow_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic classification" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic classification/classify flower.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,27 +129,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dogs-Cats/demo_learning.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="tensorflow_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\吴梓祺\Desktop\tensorflow_learning\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dogs-Cats" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dogs-Cats/preprocess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,19 +181,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.baseline_model" />
-      <item itemvalue="Python.preprocess" />
       <item itemvalue="Python.tensor" />
       <item itemvalue="Python.demo_learning" />
       <item itemvalue="Python.demo_learning (1)" />
       <item itemvalue="Python.text classification" />
+      <item itemvalue="Python.classify flower" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_learning" />
+        <item itemvalue="Python.classify flower" />
         <item itemvalue="Python.text classification" />
         <item itemvalue="Python.demo_learning (1)" />
-        <item itemvalue="Python.demo_learning" />
         <item itemvalue="Python.tensor" />
-        <item itemvalue="Python.preprocess" />
       </list>
     </recent_temporary>
   </component>
@@ -233,29 +235,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1170" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593968940410" />
-    <state x="1148" y="297" key="FileChooserDialogImpl" timestamp="1594100581214">
+    <state x="1148" y="297" key="FileChooserDialogImpl" timestamp="1594868531552">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1148" y="297" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594100581214" />
-    <state width="1077" height="267" key="GridCell.Tab.0.bottom" timestamp="1594482196711">
+    <state x="1148" y="297" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594868531552" />
+    <state width="1077" height="300" key="GridCell.Tab.0.bottom" timestamp="1594996431456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1077" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594482196711" />
+    <state width="1077" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594996431456" />
     <state width="1077" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1594394719153" />
-    <state width="1077" height="267" key="GridCell.Tab.0.center" timestamp="1594482196711">
+    <state width="1077" height="300" key="GridCell.Tab.0.center" timestamp="1594996431456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1077" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594482196711" />
+    <state width="1077" height="300" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594996431456" />
     <state width="1077" height="267" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1594394719153" />
-    <state width="1077" height="267" key="GridCell.Tab.0.left" timestamp="1594482196711">
+    <state width="1077" height="300" key="GridCell.Tab.0.left" timestamp="1594996431456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1077" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594482196711" />
+    <state width="1077" height="300" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594996431456" />
     <state width="1077" height="267" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1594394719153" />
-    <state width="1077" height="267" key="GridCell.Tab.0.right" timestamp="1594482196711">
+    <state width="1077" height="300" key="GridCell.Tab.0.right" timestamp="1594996431456">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1077" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594482196711" />
+    <state width="1077" height="300" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594996431456" />
     <state width="1077" height="267" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1594394719153" />
     <state width="936" height="347" key="GridCell.Tab.1.bottom" timestamp="1594268196531">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -273,10 +275,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="936" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594268196531" />
-    <state x="873" y="215" key="SettingsEditor" timestamp="1594479749616">
+    <state x="873" y="215" key="SettingsEditor" timestamp="1594985172868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="873" y="215" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594479749616" />
+    <state x="873" y="215" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594985172868" />
     <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1593958648468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
